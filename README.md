@@ -53,7 +53,7 @@ Welcome to the ReservaLabs, a web application designed to manage reservations fo
 - Users can view public profiles of other users but cannot edit them.
 
 ### Delete User Account
-- Students have the option to delete their accounts, canceling any pending reservations.
+- Students have the option to delete their accounts, cancel any pending reservations.
 
 ### Search for Users / Free Slots
 - Users can view all available slots for a given date, time, and laboratory.
@@ -91,25 +91,6 @@ The system supports two types of accounts:
 
 These instructions will help you get a copy of the project up and running on your local machine.
 
-### Prerequisites
-
-Ensure you have the following installed on your machine:
-
-- Node.js (version x.x.x)
-- npm (version x.x.x)
-
-### Installation
-
-1. Open your terminal and navigate to the project directory.
-
-2. Run the following command to install the required dependencies:
-
-    ```bash
-    npm install
-    ```
-    ```bash
-    npm install uuid
-    ```
 ### Configuration
 
 When setting up the server, make sure to configure the following environment variables in a `.env` file:
@@ -130,12 +111,6 @@ Once the installation is complete, start the application using the following com
 ```bash
 npm start
 ```
-
-### Opening the Application
-
-To open the web application, open your desired web browser and input in the URL 
-
-"localhost:3000"
 
 ### Reservation Dates
 
