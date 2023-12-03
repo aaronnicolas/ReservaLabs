@@ -110,6 +110,18 @@ Ensure you have the following installed on your machine:
     ```bash
     npm install uuid
     ```
+### Configuration
+
+When setting up the server, make sure to configure the following environment variables in a `.env` file:
+
+- **SERVER_PORT**: `3000`
+  - Description: Port number on which the server will run.
+
+- **DB_NAME**: `ReservaLabsDB`
+  - Description: Name of the MongoDB database.
+
+- **MONGODB_URI**: (get it from your own MongoDB Atlas)
+  - Description: Connection URI for MongoDB Atlas. Obtain it from your own MongoDB Atlas account.
 
 ### Running the Application
 
@@ -124,6 +136,10 @@ npm start
 To open the web application, open your desired web browser and input in the URL 
 
 "localhost:3000"
+
+### Reservation Dates
+
+When reserving slots, please note that the dates available for reservation in each lab are limited to December 1-5, 2023.
 
 ## General Information
 
