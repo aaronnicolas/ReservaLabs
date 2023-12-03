@@ -104,13 +104,29 @@ When setting up the server, make sure to configure the following environment var
 - **MONGODB_URI**: (get it from your own MongoDB Atlas)
   - Description: Connection URI for MongoDB Atlas. Obtain it from your own MongoDB Atlas account.
 
-### Running the Application
+# Render Website Setup
 
-Once the installation is complete, start the application using the following command:
+To deploy the ReservaLabs Phase 3 website on Render, follow these steps and ensure the specified settings are configured in the Build & Deploy section.
 
-```bash
-npm start
-```
+## Repository
+
+- **Repository:** [https://github.com/aaronnicolas/ReservaLabs-Phase-3](https://github.com/aaronnicolas/ReservaLabs-Phase-3)
+
+## Branch
+
+- **Branch:** main
+
+## Build & Deploy
+
+Ensure the following commands are set in the Build & Deploy section of Render:
+
+- **Build Command:** `$ yarn`
+
+- **Start Command:** `$ npm start`
+
+- **Auto-Deploy:** Yes
+
+This configuration will ensure that the website is built and deployed correctly on Render.
 
 ### Reservation Dates
 
