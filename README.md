@@ -107,6 +107,9 @@ Ensure you have the following installed on your machine:
     ```bash
     npm install
     ```
+    ```bash
+    npm install uuid
+    ```
 
 ### Running the Application
 
