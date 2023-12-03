@@ -104,6 +104,8 @@ When setting up the server, make sure to configure the following environment var
 - **MONGODB_URI**: (get it from your own MongoDB Atlas)
   - Description: Connection URI for MongoDB Atlas. Obtain it from your own MongoDB Atlas account.
 
+---
+
 # Render Website Setup
 
 To deploy the ReservaLabs Phase 3 website on Render, follow these steps and ensure the specified settings are configured in the Build & Deploy section.
