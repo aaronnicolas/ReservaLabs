@@ -130,10 +130,6 @@ Ensure the following commands are set in the Build & Deploy section of Render:
 
 This configuration will ensure that the website is built and deployed correctly on Render.
 
-### Reservation Dates
-
-When reserving slots, please note that the dates available for reservation in each lab are limited to December 1-5, 2023.
-
 ## General Information
 
 The Lab Reservation System provides a user-friendly and visually appealing experience. Visitors can navigate the system easily, and all information is readily accessible. The design is consistent and cohesive throughout the application, aligning with the system's theme.
