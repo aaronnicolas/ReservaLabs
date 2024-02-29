@@ -134,6 +134,12 @@ This configuration will ensure that the website is built and deployed correctly 
 
 The Lab Reservation System provides a user-friendly and visually appealing experience. Visitors can navigate the system easily, and all information is readily accessible. The design is consistent and cohesive throughout the application, aligning with the system's theme.
 
-For additional information or support, please refer to the user documentation or contact our support team.
+This project is a Major Course Output for our CCAPDEV (Web Application Development) course
+
+For additional information or support, please refer to the user documentation or contact our team.
 
 Thank you for using the Lab Reservation System!
+
+## Team
+
+Aaron Nicolas, Hans Tuballa, Raidon Manaois, Alejandro Santos
